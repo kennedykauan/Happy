@@ -1,1 +1,1 @@
-Site desenvolvido para estudos com o objetivo de cadastro de orfanatos.
+Site para cadastro de orfanatos desenvolvido exclusivamente com bootstrap para estudos.
